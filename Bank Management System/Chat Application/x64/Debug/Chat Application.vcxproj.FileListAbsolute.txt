@@ -1,0 +1,20 @@
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Chat Application\Chat Application\x64\Debug\Chat Application.vcxproj.AssemblyReference.cache
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Chat Application\Chat Application\x64\Debug\Chat Application.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Chat Application\Chat Application\x64\Debug\ChatApplication.LoginForm.resources
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Chat Application\Chat Application\x64\Debug\ChatApplication.MainForm.resources
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Chat Application\Chat Application\x64\Debug\Chat Application.vcxproj.GenerateResource.cache
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Bank management system\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Bank management system\Bank Management System\Chat Application\x64\Debug\ChatApplication.LoginForm.resources
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Bank management system\Bank Management System\Chat Application\x64\Debug\ChatApplication.MainForm.resources
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Bank management system\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.GenerateResource.cache
+C:\Users\Rayen\Documents\GitHub\Project\C++ Projects\Bank management system\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.AssemblyReference.cache
+C:\Users\Rayen\Downloads\Bank-Management-System-main\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.AssemblyReference.cache
+C:\Users\Rayen\Downloads\Bank-Management-System-main\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rayen\Downloads\Bank-Management-System-main\Bank Management System\Chat Application\x64\Debug\ChatApplication.LoginForm.resources
+C:\Users\Rayen\Downloads\Bank-Management-System-main\Bank Management System\Chat Application\x64\Debug\ChatApplication.MainForm.resources
+C:\Users\Rayen\Downloads\Bank-Management-System-main\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.GenerateResource.cache
+C:\Users\Rayen\Desktop\Projekt\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.AssemblyReference.cache
+C:\Users\Rayen\Desktop\Projekt\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Rayen\Desktop\Projekt\Bank Management System\Chat Application\x64\Debug\ChatApplication.LoginForm.resources
+C:\Users\Rayen\Desktop\Projekt\Bank Management System\Chat Application\x64\Debug\ChatApplication.MainForm.resources
+C:\Users\Rayen\Desktop\Projekt\Bank Management System\Chat Application\x64\Debug\Chat Application.vcxproj.GenerateResource.cache
